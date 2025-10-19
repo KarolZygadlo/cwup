@@ -20,7 +20,7 @@ Wykorzystaj kod z Przykładu 1 z wykładu nr 3 (dotyczący typów całkowitych).
 
 2. *Typ logiczny*: Dołącz bibliotekę `stdbool.h`. Zadeklaruj zmienną typu `bool` i przypisz jej wartość `true` lub `false`. Wyświetl jej wartość za pomocą specyfikatora `%u`.
 
-### Zadanie 3: Biblioteka matematyczna
+### Zadanie 3: Twierdzenie Pitagorasa
 
 Napisz program, który prosi użytkownika o podanie długości przyprostokątnych trójkąta prostokątnego (`a` i `b`), a następnie oblicza długość przeciwprostokątnej (`c`).
 
