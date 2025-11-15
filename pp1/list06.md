@@ -27,17 +27,7 @@ Rozbuduj program z **Zadania 1.1**.
 * Jeśli warunek **nie jest** spełniony, program powinien wyświetlić tylko komunikat z Zadania 1.1.
 * *Wskazówka:* Aby użyć funkcji `sqrt()`, musisz dodać `#include <math.h>`.
 
-#### Zadanie 1.3: Walidacja `scanf()`
-
-Napisz program, który prosi użytkownika o podanie **trzech** liczb całkowitych oddzielonych spacjami.
-
-* Program musi sprawdzić, czy użytkownik poprawnie wprowadził **dokładnie trzy liczby**.
-* Wykorzystaj wartość zwracaną przez funkcję `scanf()` (która zwraca liczbę poprawnie wczytanych pól).
-* Użyj instrukcji `if-else`, aby poinformować użytkownika o sukcesie lub porażce:
-    * Jeśli wczytano 3 liczby: "Wczytano poprawnie 3 liczby: [liczba1], [liczba2], [liczba3]."
-    * W przeciwnym razie: "Błąd: Nie wprowadzono trzech liczb całkowitych."
-
-#### Zadanie 1.4: Układ Równań Liniowych
+#### Zadanie 1.3: Układ Równań Liniowych
 
 Napisz program, który rozwiązuje układ dwóch równań liniowych metodą wyznaczników:
 $ax + by = c$
