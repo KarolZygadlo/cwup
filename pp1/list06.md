@@ -44,7 +44,7 @@ $dx + ey = f$
     * **Jeśli $W == 0$** (a pozostałe warunki nie są spełnione): Układ jest sprzeczny (brak rozwiązań).
 4.  Wyświetl wyniki `x` i `y` z dokładnością do 3 miejsc po przecinku (np. używając `%.3f`).
 
-#### Zadanie 1.5: Wartość Bezwzględna (Operator Trójargumentowy)
+#### Zadanie 1.4: Wartość Bezwzględna (Operator Trójargumentowy)
 
 Napisz program, który prosi użytkownika o podanie jednej liczby całkowitej. Wykorzystaj **operator trójargumentowy (`?:`)**, aby obliczyć i wyświetlić wartość bezwzględną tej liczby.
 
