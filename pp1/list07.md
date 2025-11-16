@@ -72,15 +72,3 @@ Napisz program, który prosi użytkownika o podanie wysokości trójkąta `h` (l
     ****
     ```
 * *Wskazówka:* Pętla zewnętrzna powinna iterować od 1 do `h` (kontrolując wiersze), a pętla wewnętrzna powinna iterować od 1 do numeru bieżącego wiersza (kontrolując liczbę gwiazdek w wierszu).
-
----
-
-### Zadanie 6: Argumenty wiersza wywołania – Sumator
-
-Napisz program, który oblicza sumę liczb całkowitych przekazanych do niego jako **argumenty wiersza wywołania**.f
-
-* Program powinien wykorzystać parametry `int argc` (liczba argumentów) i `char *argv[]` (tablica wskaźników na argumenty) funkcji `main`.
-* **Warunek:** Jeśli program zostanie uruchomiony bez żadnych dodatkowych argumentów (`argc <= 1`), powinien wyświetlić komunikat "Brak argumentów do sumowania.".
-* **Logika:** Użyj pętli `for` iterującej od `i = 1` (ponieważ `argv[0]` to nazwa programu) do `i < argc`.
-* Wewnątrz pętli, przekonwertuj każdy argument `argv[i]` (który jest łańcuchem znaków) na liczbę całkowitą. Użyj do tego funkcji `atoi()` (wymagany `#include <stdlib.h>`).
-* Zsumuj wszystkie przekonwertowane liczby  i na końcu wyświetl wynik, np. "Suma podanych liczb wynosi: [suma]".
