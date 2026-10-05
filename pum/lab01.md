@@ -19,17 +19,7 @@ Warunki zaliczenia kształtują się następująco:
   Kotlin Multiplatform / Compose Multiplatform, .NET MAUI, Ionic);
 - w połowie semestru, maksymalnie do 7-8 zajęć w planie studiów, prace związane z programowaniem aplikacji mobilnej
   powinny być rozpoczęte; w razie niedotrzymania terminu, grupa otrzyma modyfikator $-0.5$ do oceny końcowej za projekt;
-- ocena końcowa będzie zależna od ilości i jakości zrealizowanych funkcjonalności, poniżej tabela ocen za procent
-  zrealizowanych funkcjonalności zgodnie z OPZ:
-
-  | Procent zrealizowanych funkcjonalności | Ocena   |
-  |----------------------------------------|---------|
-  | 0-49%                                  | **2**   |
-  | 50-59%                                 | **3**   |
-  | 60-69%                                 | **3.5** |
-  | 70-79%                                 | **4**   |
-  | 80-89%                                 | **4.5** |
-  | 90-100%                                | **5**   |
+- ocena końcowa będzie zależna od ilości i jakości zrealizowanych funkcjonalności
 
 ### Sprawozdanie
 
@@ -40,7 +30,6 @@ Należy opracować sprawozdanie z pracy projektowej. Warunki zaliczenia kształt
 - sprawozdanie jest dostarczone najpóźniej w dniu oddania całego projektu w formie elektronicznej (najlepiej dodane do
   repozytorium);
 - sprawozdanie zawiera jako rozdziały lub sekcje:
-    - opis przedmiotu zamówienia dostarczony przez prowadzącego,
     - opis technologiczny zaproponowanego rozwiązania,
     - instrukcję lokalnego i zdalnego uruchomienia systemu,
     - wnioski z pracy projektowej - co udało się zrealizować, co nie, co można by było zrobić lepiej.
